@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:22:36.501Z",
+  "generated_at": "2026-10-01T10:22:38.676Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -117,6 +117,84 @@
       "last_pushed_at": "2025-08-06T13:50:31.681Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2025-08-09T17:17:56.559Z",
+      "last_pushed_at": "2025-08-09T17:17:56.559Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2025-08-09T20:32:39.305Z",
+      "last_pushed_at": "2025-08-09T20:32:39.305Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2025-08-09T21:03:02.781Z",
+      "last_pushed_at": "2025-08-09T21:03:02.781Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2025-08-09T21:11:42.963Z",
+      "last_pushed_at": "2025-08-09T21:11:42.963Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2025-08-09T21:17:27.184Z",
+      "last_pushed_at": "2025-08-09T21:17:27.184Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-08-09T21:26:56.876Z",
+      "last_pushed_at": "2025-08-09T21:26:56.876Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }

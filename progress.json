@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:22:41.090Z",
+  "generated_at": "2026-10-01T10:22:43.110Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -247,6 +247,71 @@
       "last_pushed_at": "2025-08-10T18:59:13.510Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-08-13T14:13:46.050Z",
+      "last_pushed_at": "2025-08-13T14:13:46.050Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-08-13T14:18:26.870Z",
+      "last_pushed_at": "2025-08-13T14:18:26.870Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2025-08-13T14:51:11.810Z",
+      "last_pushed_at": "2025-08-13T14:51:11.810Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2025-08-13T15:12:28.563Z",
+      "last_pushed_at": "2025-08-13T15:12:28.563Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2025-08-13T15:24:56.483Z",
+      "last_pushed_at": "2025-08-13T15:24:56.483Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }

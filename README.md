@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-08-09 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-08-09 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2025-08-13 | [solution](problems/0073-calculate-dice-score-for-classification) |
+| [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2025-08-16 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2025-08-13 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-08-14 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-08-05 | [solution](problems/0004-calculate-mean-by-row-or-column) |

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**32** solved · 32 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-08-09 | [solution](problems/0030-batch-iterator-for-dataset) |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-08-18 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-08-09 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2025-08-13 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2025-08-16 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
@@ -39,7 +40,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-08-05 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-08-05 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2025-08-14 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
+| [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2025-08-18 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-08-05 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-08-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-08-06 | [solution](problems/0017-k-means-clustering) |
 
 ---

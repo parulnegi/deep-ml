@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:22:46.979Z",
+  "generated_at": "2026-10-01T10:22:48.842Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -375,6 +375,45 @@
       "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
       "first_solved_at": "2025-08-16T17:13:41.876Z",
       "last_pushed_at": "2025-08-16T17:13:41.876Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2025-08-18T13:36:46.472Z",
+      "last_pushed_at": "2025-08-18T13:36:46.472Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:153": {
+      "kind": "problem",
+      "id": "153",
+      "title": "StepLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/153",
+      "path": "problems/0153-steplr-learning-rate-scheduler",
+      "first_solved_at": "2025-08-18T14:07:21.031Z",
+      "last_pushed_at": "2025-08-18T14:07:21.031Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2025-08-18T15:19:18.329Z",
+      "last_pushed_at": "2025-08-18T15:19:18.329Z",
       "language": "python",
       "lines": 23
     }

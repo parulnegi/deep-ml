@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:22:50.658Z",
+  "generated_at": "2026-10-01T10:22:52.445Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -429,6 +429,32 @@
       "last_pushed_at": "2025-08-19T11:22:24.804Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:154": {
+      "kind": "problem",
+      "id": "154",
+      "title": "ExponentialLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/154",
+      "path": "problems/0154-exponentiallr-learning-rate-scheduler",
+      "first_solved_at": "2025-08-20T10:20:07.530Z",
+      "last_pushed_at": "2025-08-20T10:20:07.530Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2025-08-20T11:54:10.673Z",
+      "last_pushed_at": "2025-08-20T11:54:10.673Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

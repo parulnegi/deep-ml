@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 46 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2025-08-10 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2025-08-09 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-08-10 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-06-16 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2025-08-09 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-08-10 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-07-06 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -56,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-08-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-08-06 | [solution](problems/0017-k-means-clustering) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-08-20 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-16 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-06-09 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-03-03 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 

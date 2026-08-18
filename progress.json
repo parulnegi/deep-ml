@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:23:15.623Z",
+  "generated_at": "2026-10-01T10:23:17.320Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -689,6 +689,45 @@
       "last_pushed_at": "2026-08-15T09:45:36.888Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-08-18T11:00:52.661Z",
+      "last_pushed_at": "2026-08-18T11:00:52.661Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:817": {
+      "kind": "problem",
+      "id": "817",
+      "title": "Multinomial Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/817",
+      "path": "problems/0817-multinomial-naive-bayes-classifier",
+      "first_solved_at": "2026-08-18T12:32:05.855Z",
+      "last_pushed_at": "2026-08-18T12:32:05.855Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:140": {
+      "kind": "problem",
+      "id": "140",
+      "title": "Bernoulli Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/140",
+      "path": "problems/0140-bernoulli-naive-bayes-classifier",
+      "first_solved_at": "2026-08-18T14:05:29.622Z",
+      "last_pushed_at": "2026-08-18T14:05:29.622Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }

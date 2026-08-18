@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**56** solved · 56 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-08-05 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-08-13 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-08-13 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-08-18 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-08-14 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2025-11-16 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2025-08-20 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
@@ -54,11 +55,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-06-09 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2025-08-18 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-08-05 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-08-18 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-08-21 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-06-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-08-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-08-06 | [solution](problems/0017-k-means-clustering) |
+| [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-08-18 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-08-15 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-08-20 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-16 | [solution](problems/0041-simple-convolutional-2d-layer) |

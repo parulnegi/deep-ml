@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 57 problems · 0 labs · 0 math
+**60** solved · 60 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,12 +39,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-08-10 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-06-16 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2025-08-09 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-09-23 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-06-18 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-08-10 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-07-06 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-07-06 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-08-05 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2025-08-14 | [solution](problems/0108-measure-disorder-in-apple-colors) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-23 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-08-09 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2025-08-09 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-08-05 | [solution](problems/0003-reshape-matrix) |
@@ -62,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-08-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-08-06 | [solution](problems/0017-k-means-clustering) |
 | [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-08-18 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
+| [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-23 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-08-15 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-08-20 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-16 | [solution](problems/0041-simple-convolutional-2d-layer) |

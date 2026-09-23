@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:23:19.280Z",
+  "generated_at": "2026-10-01T10:23:21.078Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -741,6 +741,45 @@
       "last_pushed_at": "2026-08-24T20:15:16.710Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-23T15:24:38.845Z",
+      "last_pushed_at": "2026-09-23T15:24:38.845Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-09-23T20:04:45.135Z",
+      "last_pushed_at": "2026-09-23T20:04:45.135Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-09-23T20:52:19.685Z",
+      "last_pushed_at": "2026-09-23T20:52:19.685Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }

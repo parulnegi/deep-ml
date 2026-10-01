@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 61 problems · 0 labs · 0 math
+**62** solved · 62 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-06-09 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2025-08-18 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-08-05 | [solution](problems/0002-transpose-of-a-matrix) |
+| [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-01 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-08-18 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-08-21 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |

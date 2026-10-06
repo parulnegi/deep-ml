@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 66 problems · 0 labs · 0 math
+**67** solved · 67 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Elbow Method for K-Means](https://www.deep-ml.com/problems/827) | medium | 2026-10-06 | [solution](problems/0827-elbow-method-for-k-means) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-06-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-08-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-06 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-10-02 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-01 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-10-02 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |

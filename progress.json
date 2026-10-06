@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:24:34.327Z",
+  "generated_at": "2026-10-06T15:28:22.093Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -855,7 +855,7 @@
       "url": "https://www.deep-ml.com/problems/827",
       "path": "problems/0827-elbow-method-for-k-means",
       "first_solved_at": "2026-10-06T15:24:33.465Z",
-      "last_pushed_at": "2026-10-06T15:24:33.465Z",
+      "last_pushed_at": "2026-10-06T15:28:20.393Z",
       "language": "python",
       "lines": 42
     }
